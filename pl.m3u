@@ -1,4 +1,10 @@
 #EXTM3U url-tvg='http://epg.it999.ru/epg2.xml.gz'
 
+#EXTINF:-1,НТВ
+http://51.195.44.53:8081/tv/ntv/chunks.m3u8
+
+#EXTINF:-1,НТВ
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+
 #EXTINF:-1,ТНТ
 http://147.135.210.90:8081/tv/tnt/playlist.m3u8
