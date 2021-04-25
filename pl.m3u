@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg='http://epg.it999.ru/epg2.xml.gz'
 
 #EXTINF:-1,ТНТ
 http://147.135.210.90:8081/tv/tnt/playlist.m3u8
