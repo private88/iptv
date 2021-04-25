@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1,ТНТ
+http://147.135.210.90:8081/tv/tnt/playlist.m3u8
