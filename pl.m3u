@@ -14,3 +14,9 @@ http://147.135.210.90:8081/tv/tnt/playlist.m3u8
 
 #EXTINF:-1,2x2
 http://178.163.98.224:81/udp/234.0.0.244:2000
+
+#EXTINF:-1,360°
+https://video1.in-news.ru/360/index.m3u8
+
+#EXTINF:-1,8 Канал
+http://176.99.110.252/stream8/playlist.m3u8
