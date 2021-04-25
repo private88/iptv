@@ -11,3 +11,6 @@ http://51.195.44.53:8081/tv/ntv/chunks.m3u8
 
 #EXTINF:-1,ТНТ
 http://147.135.210.90:8081/tv/tnt/playlist.m3u8
+
+#EXTINF:-1,2x2
+http://178.163.98.224:81/udp/234.0.0.244:2000
