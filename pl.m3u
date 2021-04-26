@@ -1,10 +1,10 @@
 
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz" url-tvg="https://iptvx.one/epg/epg.xml.gz" url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="1"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="1"
 
 #EXTINF:-1 tvg-name="2x2" tvg-logo="https://i.ibb.co/DrvTgDc/2x2.png",2x2
 http://178.163.98.224:81/udp/234.0.0.244:2000
 
-#EXTINF:-1 tvg-name="360°" tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png",360° (720p)
+#EXTINF:-1 tvg-name="360°" tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png",360°
 https://video1.in-news.ru/360/index.m3u8
 
 #EXTINF:-1 tvg-name="8 Канал" tvg-logo="http://tv8crimea.ru/wp-content/uploads/2017/11/1logo.png",8 Канал
