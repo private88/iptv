@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz" refresh="1"
 
 #EXTINF:-1 tvg-name="2x2" tvg-logo="https://i.ibb.co/DrvTgDc/2x2.png",2x2
 http://178.163.98.224:81/udp/234.0.0.244:2000
