@@ -1,8 +1,5 @@
 
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
 #EXTINF:-1,2x2
 http://178.163.98.224:81/udp/234.0.0.244:2000
-
-#EXTINF:-1,ТНТ4
-http://origin1.perm.ertelecom.ru/content/private/s147213/d3720264/r964934sd2000000/349d2bad5e03c3bc5b6f4379161f561843775aca/track_2_1200/playlist.m3u8
