@@ -1,5 +1,5 @@
 
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="276",2x21111
+#EXTINF:-1 tvg-name="2x21111",2x2
 http://178.163.98.224:81/udp/234.0.0.244:2000
